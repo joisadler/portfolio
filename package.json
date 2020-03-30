@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio",
+  "main": "js/main.js",
+  "url": "git+https://github.com/joisadler/portfolio.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yossi Adler <joisadler@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.3.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "stylelint": "^13.2.1",
+    "stylelint-config-htmlacademy": "^0.1.4"
+  }
+}
