@@ -21,8 +21,7 @@ const gProjects = [
     intro: 'a corona-style minesweeper game.',
     category: 'Online Game',
     projUrl: 'https://joisadler.me/coronasweeper',
-    description: `Actual remake of the old minesweeper game for those who are bored in quarantine;)
-    All records are stored in local storage, so you can safely reload the page and not be afraid to lose your best score.`,
+    description: 'Actual remake of the old minesweeper game for those who are bored in quarantine;)\nAll records are stored in local storage, so you can safely reload the page and not be afraid to lose your best score.',
     publishedAt: 'March 2020',
     client: 'Open-Source',
   },
